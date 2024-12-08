@@ -7,6 +7,10 @@ android {
     namespace = "com.dirac.myapplication"
     compileSdk = 34
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.dirac.myapplication"
         minSdk = 26
