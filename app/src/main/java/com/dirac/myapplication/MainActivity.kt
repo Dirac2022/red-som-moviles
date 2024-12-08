@@ -3,8 +3,6 @@ package com.dirac.myapplication
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.dirac.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
