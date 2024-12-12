@@ -1,10 +1,12 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    // id("com.android.application")
+    id("com.google.gms.google-services")
 }
 
 android {
-    namespace = "com.dirac.myapplication"
+    namespace = "com.dirac.brainTumorDetect"
     compileSdk = 34
 
     buildFeatures{
@@ -12,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.dirac.myapplication"
+        applicationId = "com.dirac.brainTumorDetect"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

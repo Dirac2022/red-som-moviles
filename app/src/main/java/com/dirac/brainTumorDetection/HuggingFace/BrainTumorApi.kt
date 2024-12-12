@@ -1,4 +1,4 @@
-package com.dirac.myapplication.HuggingFace
+package com.dirac.brainTumorDetection.HuggingFace
 
 import com.example.mykfirebaserehz.HuggingFace.ResponseData
 import retrofit2.Call

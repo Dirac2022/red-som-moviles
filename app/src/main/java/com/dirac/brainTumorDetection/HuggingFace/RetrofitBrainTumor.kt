@@ -1,4 +1,4 @@
-package com.dirac.myapplication.HuggingFace
+package com.dirac.brainTumorDetection.HuggingFace
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -1,4 +1,4 @@
-package com.dirac.myapplication
+package com.dirac.brainTumorDetection
 
 import android.content.Context
 import android.view.LayoutInflater

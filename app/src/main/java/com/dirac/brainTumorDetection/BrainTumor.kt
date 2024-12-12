@@ -1,4 +1,4 @@
-package com.dirac.myapplication
+package com.dirac.brainTumorDetection
 
 class BrainTumor {
     var nombre:String = ""

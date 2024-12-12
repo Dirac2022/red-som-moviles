@@ -1,4 +1,4 @@
-package com.dirac.myapplication
+package com.dirac.brainTumorDetection
 
 import android.app.Activity
 import android.content.Context
@@ -18,8 +18,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.annotation.NonNull
 import androidx.appcompat.app.AppCompatActivity
-import com.dirac.myapplication.HuggingFace.RetrofitBrainTumor
-import com.dirac.myapplication.databinding.ActivityMainBinding
+import com.dirac.brainTumorDetection.databinding.ActivityMainBinding
+import com.dirac.brainTumorDetection.HuggingFace.RetrofitBrainTumor
 import com.example.mykfirebaserehz.HuggingFace.RequestData
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError

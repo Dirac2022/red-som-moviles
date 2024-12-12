@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292304609816",
+    "project_id": "brain-tumor-detection-360d3",
+    "storage_bucket": "brain-tumor-detection-360d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292304609816:android:77b8676ed9b534c3fd596d",
+        "android_client_info": {
+          "package_name": "com.dirac.brainTumorDetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUP01RlxiMBDXhk8Xj2mMBb_BIshq8D30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
